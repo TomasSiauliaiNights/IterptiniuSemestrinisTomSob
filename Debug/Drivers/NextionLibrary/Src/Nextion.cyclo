@@ -1,0 +1,13 @@
+../Drivers/NextionLibrary/Src/Nextion.c:10:9:NextionAddComp	1
+../Drivers/NextionLibrary/Src/Nextion.c:33:9:NextionInit	1
+../Drivers/NextionLibrary/Src/Nextion.c:52:9:NextionUpdate	17
+../Drivers/NextionLibrary/Src/Nextion.c:125:9:NextionGetText	2
+../Drivers/NextionLibrary/Src/Nextion.c:148:9:NextionSetText	1
+../Drivers/NextionLibrary/Src/Nextion.c:163:9:NextionGetVal	1
+../Drivers/NextionLibrary/Src/Nextion.c:185:9:NextionSetVal	1
+../Drivers/NextionLibrary/Src/Nextion.c:200:9:NextionSetXVal	1
+../Drivers/NextionLibrary/Src/Nextion.c:215:9:NextionSetChar	1
+../Drivers/NextionLibrary/Src/Nextion.c:231:9:NextionSendCommand	1
+../Drivers/NextionLibrary/Src/Nextion.c:240:9:NextionEndCommand	1
+../Drivers/NextionLibrary/Src/Nextion.c:251:9:NextionRestartIT	1
+../Drivers/NextionLibrary/Src/Nextion.c:259:9:NextionStopIT	1
